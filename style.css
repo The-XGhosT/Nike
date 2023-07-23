@@ -261,7 +261,7 @@ section .main .button:hover i{
 }
 
 
-.products .box .card .product_text .products_star{
+.products .box .card .product_text .product_star{
     color : orange;
     margin-bottom: 19px;
     cursor: pointer;
